@@ -57,10 +57,8 @@
 </p>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajdip019&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=SubxX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubxX&show_icons=true&locale=en&layout=compact&theme=radical" />
-
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SubxX&theme=radical&hide_border=false&stroke=0000&background=060A0CD" />
