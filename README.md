@@ -3,7 +3,6 @@
 
 - 🌱 Currently working on [**Versai**](http://versaihq.com/)
 - 👨‍💻 Currently learning **Dart & Flutter**
-- ✨ Pursuing B.tech in **Computer Science and Engineering**
 - 💬 Ask me about **Web development,  and Open Source**
 - 📫 How to reach me **subhambhattacharya700@gmail.com**
 - ⚡ Fun fact -  **Mobile devices make up almost two-thirds of web usage :)**
