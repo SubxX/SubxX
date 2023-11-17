@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there I'm subham Bhattacharya! 👋</h1>
+<h1 align="left">Hi there I'm Subham Bhattacharya! 👋</h1>
 
 - 🌱 Currently working on [**Versai**](http://versaihq.com/)
 - 👨‍💻 Currently learning **Dart & Flutter**
